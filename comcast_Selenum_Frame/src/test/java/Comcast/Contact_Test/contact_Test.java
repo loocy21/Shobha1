@@ -7,7 +7,7 @@ public class contact_Test {
 	public void creContactwithOrgTest() {
 		System.out.println("execute createContactWithOrg");
 		  String BROWSER = System.getProperty("chrome");
-		  String ENV = System.getProperty("localhost:8888");
+		  String ENV = System.getProperty("url");
 		  System.out.println("======BROWSER=====> "+BROWSER+"");
 		  System.out.println("======url====>" +ENV+"");
 	}
